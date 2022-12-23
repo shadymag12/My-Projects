@@ -1,4 +1,4 @@
-# My Project on time series prediction
+# My Projects on Machine Learning/Deep Learning 
 
 
-Good time series model based on mapping of past year data & learning from it
+All Models made here are solutions to Kaggle competition problems
